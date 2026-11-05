@@ -37,20 +37,20 @@
 	<annotations />
 	<thumbnail />
 	<node_properties>
-		<properties node_id="0" format="pickle">gASV9wIAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjAxyZWNlbnRfcGF0aHOUXZSMHm9y
+		<properties node_id="0" format="pickle">gASVBQMAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjAxyZWNlbnRfcGF0aHOUXZSMHm9y
 YW5nZXdpZGdldC51dGlscy5maWxlZGlhbG9nc5SMClJlY2VudFBhdGiUk5QpgZR9lCiMB2Fic3Bh
-dGiUjFRDOi9Vc2Vycy96YWthci9Eb3dubG9hZHMvNUlBU0RSL1RQX0NvbXBsZW1lbnRhaXJlX09y
-YW5nZV9LTklNRS9kYXRhL3RyYW5zYWN0aW9ucy5jc3aUjAZwcmVmaXiUTowHcmVscGF0aJROjAV0
-aXRsZZSMAJSMBXNoZWV0lGgOjAtmaWxlX2Zvcm1hdJROdWJhjAtyZWNlbnRfdXJsc5RdlIwTc2F2
-ZWRXaWRnZXRHZW9tZXRyeZROjAtzaGVldF9uYW1lc5R9lIwGc291cmNllEsAjAN1cmyUaA6MDWRv
-bWFpbl9lZGl0b3KUfZSMC19fdmVyc2lvbl9flEsBjBBjb250ZXh0X3NldHRpbmdzlF2UjBVvcmFu
-Z2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQojAl2YXJpYWJs
-ZXOUXZRoGH2UaCRdlChdlCiMB21vbnRhbnSUjBRPcmFuZ2UuZGF0YS52YXJpYWJsZZSMEkNvbnRp
-bnVvdXNWYXJpYWJsZZSTlEsAaA6IZV2UKIwKYW5jaWVubmV0ZZRoLEsAaA6IZV2UKIwIZnJlcV8y
-NGiUaCxLAGgOiGVdlCiMBG51aXSUaCqMEERpc2NyZXRlVmFyaWFibGWUk5RLAIwEMCwgMZSIZV2U
-KIwGZnJhdWRllGg0SwGMBDAsIDGUiGVlc2gaSwF1jAphdHRyaWJ1dGVzlChoKUsChpRoLksChpRo
-MEsChpRoMl2UKIwBMJSMATGUZYaUaDddlChoPmg/ZYaUdJSMBW1ldGFzlCmMCmNsYXNzX3ZhcnOU
-KYwSbW9kaWZpZWRfdmFyaWFibGVzlF2UdWJhdS4=
+dGiUjGJDOi9Vc2Vycy9Vc2VyL0RvY3VtZW50cy9Db2RleC8yMDI2LTEwLTE1L3gyMC10cDMtZHYv
+dHAtY29tcGxlbWVudGFpcmUtaXNtYWlsL2RhdGEvdHJhbnNhY3Rpb25zLmNzdpSMBnByZWZpeJRO
+jAdyZWxwYXRolE6MBXRpdGxllIwAlIwFc2hlZXSUaA6MC2ZpbGVfZm9ybWF0lE51YmGMC3JlY2Vu
+dF91cmxzlF2UjBNzYXZlZFdpZGdldEdlb21ldHJ5lE6MC3NoZWV0X25hbWVzlH2UjAZzb3VyY2WU
+SwCMA3VybJRoDowNZG9tYWluX2VkaXRvcpR9lIwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0
+dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVl
+c5R9lCiMCXZhcmlhYmxlc5RdlGgYfZRoJF2UKF2UKIwHbW9udGFudJSMFE9yYW5nZS5kYXRhLnZh
+cmlhYmxllIwSQ29udGludW91c1ZhcmlhYmxllJOUSwBoDohlXZQojAphbmNpZW5uZXRllGgsSwBo
+DohlXZQojAhmcmVxXzI0aJRoLEsAaA6IZV2UKIwEbnVpdJRoKowQRGlzY3JldGVWYXJpYWJsZZST
+lEsAjAQwLCAxlIhlXZQojAZmcmF1ZGWUaDRLAYwEMCwgMZSIZWVzaBpLAXWMCmF0dHJpYnV0ZXOU
+KGgpSwKGlGguSwKGlGgwSwKGlGgyXZQojAEwlIwBMZRlhpRoN12UKGg+aD9lhpR0lIwFbWV0YXOU
+KYwKY2xhc3NfdmFyc5QpjBJtb2RpZmllZF92YXJpYWJsZXOUXZR1YmF1Lg==
 </properties>
 		<properties node_id="1" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': None, 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, 'stored_sort': [], '__version__': 1}</properties>
 		<properties node_id="2" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 75, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': None, 'selectedFold': 1, 'sql_dl': False, 'stratify': True, 'use_seed': True, '__version__': 2}</properties>
@@ -84,7 +84,7 @@ b25fX5RLAYwQY29udGV4dF9zZXR0aW5nc5RdlIwVb3Jhbmdld2lkZ2V0LnNldHRpbmdzlIwHQ29u
 dGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwJc2VsZWN0aW9ulI+UaBBLAXWMB2NsYXNzZXOUjAEw
 lIwBMZSGlHViYXUu
 </properties>
-		<properties node_id="11" format="literal">{'auto_save': False, 'controlAreaVisible': True, 'filter': 'Pickled model (*.pkcls)', 'savedWidgetGeometry': None, 'stored_name': 'fraude-gb.pkcls', 'stored_path': 'C:\\Users\\zakar\\Downloads\\5IASDR\\TP_Complementaire_Orange_KNIME\\models', '__version__': 1}</properties>
+		<properties node_id="11" format="literal">{'auto_save': False, 'controlAreaVisible': True, 'filter': 'Pickled model (*.pkcls)', 'savedWidgetGeometry': None, 'stored_name': 'fraude-gb.pkcls', 'stored_path': 'C:\\Users\\User\\Documents\\Codex\\2026-10-15\\x20-tp3-dv\\tp-complementaire-ismail\\models', '__version__': 1}</properties>
 		<properties node_id="12" format="pickle">gASVXAIAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5
 lE6MCXNlbGVjdGlvbpRdlIwLc2hvd19zY29yZXOUiIwLc2NvcmVfdGFibGWUfZSMEHNob3dfc2Nv
 cmVfaGludHOUfZQojAZNb2RlbF+UiIwGVHJhaW5flImMBVRlc3RflImMAkNBlIiMF1ByZWNpc2lv

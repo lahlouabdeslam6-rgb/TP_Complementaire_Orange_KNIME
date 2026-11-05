@@ -1,0 +1,119 @@
+Creating a default category 'Data'.
+Creating a default category 'Unspecified'.
+Creating a default category 'Transform'.
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWLogisticRegression.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWKNNLearner.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWTreeLearner.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWRandomForest.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWGradientBoosting.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+Could not serialize to a literal string
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 762, in dumps
+    return (literal_dumps(obj, indent=1 if prettyprint else None),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 908, in literal_dumps
+    check_relaxed(obj)
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 893, in check_relaxed
+    return all(map(check_relaxed, chain(obj.keys(), obj.values())))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 891, in check_relaxed
+    return all(map(check_relaxed, obj))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 904, in check_relaxed
+    raise TypeError("{0} can not be serialized as a python "
+TypeError: <class 'orangewidget.utils.filedialogs.RecentPath'> can not be serialized as a python literal
+Using pickle fallback
+Could not serialize to a literal string
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 762, in dumps
+    return (literal_dumps(obj, indent=1 if prettyprint else None),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 908, in literal_dumps
+    check_relaxed(obj)
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 893, in check_relaxed
+    return all(map(check_relaxed, chain(obj.keys(), obj.values())))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 891, in check_relaxed
+    return all(map(check_relaxed, obj))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 904, in check_relaxed
+    raise TypeError("{0} can not be serialized as a python "
+TypeError: <class 'orangewidget.settings.Context'> can not be serialized as a python literal
+Using pickle fallback
+Could not serialize to a literal string
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 762, in dumps
+    return (literal_dumps(obj, indent=1 if prettyprint else None),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 908, in literal_dumps
+    check_relaxed(obj)
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 893, in check_relaxed
+    return all(map(check_relaxed, chain(obj.keys(), obj.values())))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 904, in check_relaxed
+    raise TypeError("{0} can not be serialized as a python "
+TypeError: <class 'Orange.widgets.gui.ControlledList'> can not be serialized as a python literal
+Using pickle fallback
+Could not serialize to a literal string
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 762, in dumps
+    return (literal_dumps(obj, indent=1 if prettyprint else None),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 908, in literal_dumps
+    check_relaxed(obj)
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 893, in check_relaxed
+    return all(map(check_relaxed, chain(obj.keys(), obj.values())))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 891, in check_relaxed
+    return all(map(check_relaxed, obj))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 904, in check_relaxed
+    raise TypeError("{0} can not be serialized as a python "
+TypeError: <class 'orangewidget.settings.Context'> can not be serialized as a python literal
+Using pickle fallback
+Could not serialize to a literal string
+Traceback (most recent call last):
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 762, in dumps
+    return (literal_dumps(obj, indent=1 if prettyprint else None),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 908, in literal_dumps
+    check_relaxed(obj)
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 893, in check_relaxed
+    return all(map(check_relaxed, chain(obj.keys(), obj.values())))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangecanvas\scheme\readwrite.py", line 904, in check_relaxed
+    raise TypeError("{0} can not be serialized as a python "
+TypeError: <class 'numpy.float64'> can not be serialized as a python literal
+Using pickle fallback
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWLogisticRegression.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWKNNLearner.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWTreeLearner.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWRandomForest.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\orangewidget\gui.py:2070: UserWarning: decorate OWGradientBoosting.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+Workflow livré après recharge et calcul validés : {'Logistic Regression': 0.781021897810219, 'kNN': 0.779783393501805, 'Tree': 0.7559055118110236, 'Random Forest': 0.8333333333333334, 'Gradient Boosting': 0.837037037037037}

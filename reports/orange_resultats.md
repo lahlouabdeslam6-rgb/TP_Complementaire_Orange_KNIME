@@ -42,7 +42,7 @@ LR : C=1, L2, max_iter=10000, random_state=0, solver auto (lbfgs), prétraitemen
 
 Tous les écarts AUC/CA/F1/précision/rappel sont aussi dans orange_comparaison_scores.csv ; les attendus ne sont jamais substitués aux mesures.
 
-Matrice GB mesurée : `[[1093, 15], [29, 113]]` ; attendue de l’énoncé : `[[1093,15],[29,113]]`. Écart élément par élément : `[[0, 0], [0, 0]]`. Modèle sauvegardé : 141461 octets ; recharge pickle et prédictions identiques validées. L’énoncé annonce environ 320 Ko : notre fichier est plus petit. Le format est bien pickle.dump comme OWSaveModel.do_save, les paramètres sont fidèles et les prédictions sont identiques après recharge. La représentation sérialisée dépend des bibliothèques ; la cause exacte de cet écart de taille n’est pas établie. Aucun remplissage artificiel n’est ajouté.
+Matrice GB mesurée : `[[1093, 15], [29, 113]]` ; attendue de l’énoncé : `[[1093,15],[29,113]]`. Écart élément par élément : `[[0, 0], [0, 0]]`. Modèle sauvegardé : 141461 octets ; recharge pickle et prédictions identiques validées. L’énoncé annonce environ 320 Ko : notre fichier est plus petit. Le format a été vérifié dans OWSaveModel.do_save (pickle.dump sans protocole ajouté) et les paramètres sont fidèles ; la représentation sérialisée dépend des bibliothèques. La cause exacte de cet écart de taille n’est pas établie. Aucun remplissage artificiel n’est ajouté ; la taille n’est pas une métrique de qualité.
 
 ## B2 CV stratifiée 5 plis
 
@@ -54,7 +54,7 @@ Matrice GB mesurée : `[[1093, 15], [29, 113]]` ; attendue de l’énoncé : `[[
 | Random Forest | 0.806922 | 0.819343 | 0.819262 |
 | Gradient Boosting | 0.818011 | 0.818011 | 0.818148 |
 
-Chaque ligne est validée une fois hors pli ; 4000 lignes entraînent chaque modèle. Le F1 affiché par Orange est calculé sur les prédictions hors pli regroupées, et n’est pas exactement la moyenne des cinq F1. Les deux sont conservés. L’AUC CV de scoring Orange est une moyenne des AUC par pli ; les légendes des figures ROC fusionnées utilisent l’AUC des probabilités hors pli regroupées. Ces agrégations peuvent légèrement différer.
+Chaque ligne est validée une fois hors pli ; 4000 lignes entraînent chaque modèle. Le F1 affiché par Orange est calculé sur les prédictions hors pli regroupées, et n’est pas exactement la moyenne des cinq F1. Les deux sont conservés. L’AUC CV de scoring Orange est une moyenne des AUC par pli ; les légendes des figures ROC fusionnées utilisent l’AUC des probabilités hors pli regroupées. Ces deux agrégations peuvent légèrement différer.
 
 ## B3 ROC et seuil pédagogique
 

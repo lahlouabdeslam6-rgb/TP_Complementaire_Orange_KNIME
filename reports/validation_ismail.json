@@ -5,7 +5,7 @@
   "donnees": "Recalcul local vérifié",
   "flaml": "Recherche locale 60 s terminée",
   "simulation_knime": "Recalcul scikit-learn local ; pas KNIME",
-  "orange_api": "Installation en cours ; résultats de référence non encore revalidés localement",
-  "workflow_orange": "Workflow fourni par la source ; recharge locale à valider",
+  "orange_api": "Exécution locale Orange 3.40.0 réussie ; métriques et prédictions vérifiées",
+  "workflow_orange": "14 widgets, 16 liens ; recharge et exécution locales réussies ; captures GUI à compléter",
   "knime_natif": "Non exécuté, aucune capture native ni .knwf"
 }

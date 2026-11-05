@@ -8,7 +8,7 @@ Ce TP compare cinq modèles Orange avant et après amélioration, une simulation
 
 ## Données et hypothèses
 
-L’Annexe A a été exécutée avec la graine 7 : 5000 transactions, 568 fraudes (11,36 %), 5001 lignes avec en-tête. Provenance des contrôles de données : simulation scikit-learn (génération NumPy/pandas de l’Annexe A). Attributs : montant, anciennete, freq_24h, nuit ; cible : fraude. Aucun attribut n’est construit à partir de la cible. Le résultat personnel TP04 est conservé dans tp4_ismail_reference.json ; la nouvelle recherche de 60 s reste une exécution distincte. Orange 3.40.0, Python 3.13.3, scikit-learn 1.9.1, NumPy 2.3.5 ; versions figées dans requirements-orange.txt. Les deux venv locaux sont séparés ; aucune application Orange ou KNIME n’a été pilotée graphiquement.
+L’Annexe A a été exécutée avec la graine 7 : 5000 transactions, 568 fraudes (11,36 %), 5001 lignes avec en-tête. Provenance des contrôles de données : simulation scikit-learn (génération NumPy/pandas de l’Annexe A). Attributs : montant, anciennete, freq_24h, nuit ; cible : fraude. Aucun attribut n’est construit à partir de la cible. Le résultat personnel TP04 est conservé dans tp4_ismail_reference.json ; la nouvelle recherche de 60 s reste une exécution distincte. Orange 3.40.0, Python 3.12.14, scikit-learn 1.9.1, NumPy 2.3.5 ; versions figées dans requirements-orange.txt. Les deux venv locaux sont séparés ; aucune application Orange ou KNIME n’a été pilotée graphiquement.
 
 ## Partie Orange
 

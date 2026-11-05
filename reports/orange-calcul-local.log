@@ -1,0 +1,88 @@
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1381: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\linear_model\_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+C:\Users\User\Documents\Codex\2026-10-15\x20-tp3-dv\.venv-orange\Lib\site-packages\sklearn\ensemble\_gb.py:666: FutureWarning: The parameter `criterion` is deprecated and will be removed in 1.11. It has no effect. Leave it to its default value to avoid this warning.
+  warnings.warn(
+| Modèle | AUC | CA | F1 classe 1 | Précision 1 | Rappel 1 |
+|---|---|---|---|---|---|
+| Logistic Regression | 0.979426 | 0.952000 | 0.781022 | 0.810606 | 0.753521 |
+| kNN | 0.825183 | 0.904000 | 0.478261 | 0.625000 | 0.387324 |
+| Tree | 0.845109 | 0.950400 | 0.755906 | 0.857143 | 0.676056 |
+| Random Forest | 0.976617 | 0.958400 | 0.812950 | 0.830882 | 0.795775 |
+| Gradient Boosting | 0.989078 | 0.964800 | 0.837037 | 0.882812 | 0.795775 |
+| Modèle | AUC | CA | F1 classe 1 | Précision 1 | Rappel 1 |
+|---|---|---|---|---|---|
+| Logistic Regression | 0.979426 | 0.952000 | 0.781022 | 0.810606 | 0.753521 |
+| kNN | 0.964137 | 0.951200 | 0.779783 | 0.800000 | 0.760563 |
+| Tree | 0.845109 | 0.950400 | 0.755906 | 0.857143 | 0.676056 |
+| Random Forest | 0.983971 | 0.963200 | 0.833333 | 0.858209 | 0.809859 |
+| Gradient Boosting | 0.989078 | 0.964800 | 0.837037 | 0.882812 | 0.795775 |
+CV : {'avant': {'Logistic Regression': {'F1': 0.7437858508604207, 'F1_par_pli': [0.7830188679245284, 0.7010309278350515, 0.75, 0.7081339712918661, 0.7713004484304933], 'F1_moyenne_plis': 0.7426968430963878, 'AUC': 0.9788966765393806}, 'kNN': {'F1': 0.45925925925925926, 'F1_par_pli': [0.4235294117647059, 0.4, 0.47368421052631576, 0.5104166666666666, 0.4827586206896552], 'F1_moyenne_plis': 0.4580777819294687, 'AUC': 0.8216589416916662}, 'Tree': {'F1': 0.7034764826175869, 'F1_par_pli': [0.7142857142857143, 0.6630434782608695, 0.708994708994709, 0.7010309278350515, 0.7255813953488373], 'F1_moyenne_plis': 0.7025872449450363, 'AUC': 0.8007200751894036}, 'Random Forest': {'F1': 0.8069216757741348, 'F1_par_pli': [0.8378378378378378, 0.7830188679245284, 0.8186046511627907, 0.8245614035087719, 0.7692307692307693], 'F1_moyenne_plis': 0.8066507059329396, 'AUC': 0.9760216590608635}, 'Gradient Boosting': {'F1': 0.8180112570356473, 'F1_par_pli': [0.8356807511737089, 0.8018867924528302, 0.8252427184466019, 0.8207547169811321, 0.8071748878923767], 'F1_moyenne_plis': 0.81814797338933, 'AUC': 0.987539207492246}}, 'apres': {'Logistic Regression': {'F1': 0.7437858508604207, 'F1_par_pli': [0.7830188679245284, 0.7010309278350515, 0.75, 0.7081339712918661, 0.7713004484304933], 'F1_moyenne_plis': 0.7426968430963878, 'AUC': 0.9788966765393806}, 'kNN': {'F1': 0.7802607076350093, 'F1_par_pli': [0.8, 0.7669902912621359, 0.7962085308056872, 0.7714285714285715, 0.7665198237885462], 'F1_moyenne_plis': 0.7802294434569882, 'AUC': 0.9577885862104032}, 'Tree': {'F1': 0.7034764826175869, 'F1_par_pli': [0.7142857142857143, 0.6630434782608695, 0.708994708994709, 0.7010309278350515, 0.7255813953488373], 'F1_moyenne_plis': 0.7025872449450363, 'AUC': 0.8007200751894036}, 'Random Forest': {'F1': 0.8193430656934306, 'F1_par_pli': [0.8571428571428571, 0.8038277511961722, 0.827906976744186, 0.8198198198198198, 0.7876106194690266], 'F1_moyenne_plis': 0.8192616048744122, 'AUC': 0.9845261494508567}, 'Gradient Boosting': {'F1': 0.8180112570356473, 'F1_par_pli': [0.8356807511737089, 0.8018867924528302, 0.8252427184466019, 0.8207547169811321, 0.8071748878923767], 'F1_moyenne_plis': 0.81814797338933, 'AUC': 0.987539207492246}}}
+Seuil .3 : {'AUC': 0.9890775156353282, 'CA': 0.9632, 'F1': 0.8456375838926175, 'Prec': 0.8076923076923077, 'Recall': 0.8873239436619719, 'matrice': [[1078, 30], [16, 126]]}

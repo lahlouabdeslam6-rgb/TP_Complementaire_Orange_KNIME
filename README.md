@@ -6,7 +6,7 @@ Adaptation personnelle du [dépôt de référence ZED-abd](https://github.com/ZE
 
 ## État de validation
 
-Les données et la simulation préparatoire scikit-learn ont été recalculées localement. Les résultats Orange sont vérifiés par une exécution indépendante de l’API et du workflow lorsque cette validation réussit ; voir `reports/validation_ismail.json` pour l’état exact. Les résultats KNIME hérités restent des **simulations scikit-learn** : aucun workflow natif KNIME exécuté ni export .knwf n’est revendiqué.
+Les données et la simulation préparatoire scikit-learn ont été recalculées localement. Orange 3.40.0 a été exécuté localement : les cinq modèles, les prédictions et la validation croisée ont été recalculés. Le workflow de 14 widgets et 16 liens a été rechargé et exécuté avec succès ; voir `reports/validation_ismail.json` et les journaux Orange. Les résultats KNIME hérités restent des **simulations scikit-learn** : aucun workflow natif KNIME exécuté ni export .knwf n’est revendiqué.
 
 Le document personnel est un **compte rendu de travail**. Avant remise comme TP complet, les captures Orange demandées et le workflow/captures/résultats natifs KNIME doivent être présents. Aucun graphique Python n’est présenté comme une capture d’interface.
 
