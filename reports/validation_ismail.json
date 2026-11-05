@@ -1,0 +1,11 @@
+{
+  "auteur": "Ismail Lahlou",
+  "source": "https://github.com/ZED-abd/TP_Complementaire_Orange_KNIME",
+  "date": "2026-11-05",
+  "donnees": "Recalcul local vérifié",
+  "flaml": "Recherche locale 60 s terminée",
+  "simulation_knime": "Recalcul scikit-learn local ; pas KNIME",
+  "orange_api": "Installation en cours ; résultats de référence non encore revalidés localement",
+  "workflow_orange": "Workflow fourni par la source ; recharge locale à valider",
+  "knime_natif": "Non exécuté, aucune capture native ni .knwf"
+}

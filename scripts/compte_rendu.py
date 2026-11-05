@@ -8,7 +8,7 @@ def main():
     f=json.loads((ROOT/'reports/flaml_resultats.json').read_text(encoding='utf-8'))
     validation=json.loads((ROOT/'reports/orange_workflow_validation.json').read_text(encoding='utf-8'))
     texte='# Détection de fraude avec Orange et KNIME\n\n'
-    texte+='[NOM] [PRÉNOM] — [FILIÈRE] — [GROUPE]\n\nEMSI — 5IASD — Déploiement d’IA — Année 2026 2027\n\n'
+    texte+='Ismail Lahlou — AI — G6\n\nEMSI — 5IASD — Déploiement d’IA — Année 2026 2027\n\n'
     texte+='Ce TP compare cinq modèles Orange avant et après amélioration, une simulation préparatoire à KNIME et une référence FLAML. '
     texte+='Les calculs Orange reproduisent les scores de l’énoncé à son arrondi. Les captures et les mesures KNIME réelles restent **[À FAIRE PAR L\'ÉTUDIANT]**. '
     texte+='Toutes les mesures sont issues des scripts du dépôt ; les valeurs attendues sont identifiées comme provenant de l’énoncé. '
@@ -17,7 +17,7 @@ def main():
     texte+='L’Annexe A a été exécutée avec la graine 7 : 5000 transactions, 568 fraudes (11,36 %), 5001 lignes avec en-tête. '
     texte+='Provenance des contrôles de données : simulation scikit-learn (génération NumPy/pandas de l’Annexe A). '
     texte+='Attributs : montant, anciennete, freq_24h, nuit ; cible : fraude. Aucun attribut n’est construit à partir de la cible. '
-    texte+='Le dossier TP04 voisin est absent ; les paramètres FLAML sont donc supposés selon la consigne. '
+    texte+='Le résultat personnel TP04 est conservé dans tp4_ismail_reference.json ; la nouvelle recherche de 60 s reste une exécution distincte. '
     texte+=f"Orange {o['orange']}, Python {o['provenance']['python']}, scikit-learn {o['provenance']['scikit_learn']}, NumPy {o['provenance']['numpy']} ; versions figées dans requirements-orange.txt. "
     texte+='Les deux venv locaux sont séparés ; aucune application Orange ou KNIME n’a été pilotée graphiquement.\n\n'
     texte+='## Partie Orange\n\n'

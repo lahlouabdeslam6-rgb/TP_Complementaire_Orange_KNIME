@@ -4,7 +4,7 @@ Provenance : **simulation scikit-learn**, pilotée réellement par FLAML.
 
 Dossier ../tp4-automl absent ; configuration supposée selon la consigne, pas un résultat récupéré du TP04.
 
-FLAML 2.7.0, budget demandé 60 s, durée observée 60.578 s, seed=42, task=classification, metric=f1, n_jobs=1. Partage externe 75/25 NON stratifié, random_state=42 : 1250 lignes de test dont 134 fraudes. Le test externe sert uniquement à l’évaluation finale ; le choix du modèle utilise la validation interne FLAML.
+FLAML 2.7.0, budget demandé 60 s, durée observée 60.242 s, seed=42, task=classification, metric=f1, n_jobs=1. Partage externe 75/25 NON stratifié, random_state=42 : 1250 lignes de test dont 134 fraudes. Le test externe sert uniquement à l’évaluation finale ; le choix du modèle utilise la validation interne FLAML.
 
 Meilleur modèle : **xgboost**. F1 classe 1 externe **0.858238**, AUC 0.990973, précision 0.881890, rappel 0.835821, matrice `[[1101, 15], [22, 112]]`.
 

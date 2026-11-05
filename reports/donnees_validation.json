@@ -7,5 +7,5 @@
   "lignes_avec_entete": 5001,
   "sha256": "55d190c433f39d88c2b748ed77c75730cef6fe9f267b4eb6efef9be6ea464dea",
   "numpy": "2.5.4",
-  "pandas": "3.1.1"
+  "pandas": "3.0.6"
 }

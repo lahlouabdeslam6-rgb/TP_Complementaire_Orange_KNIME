@@ -14,6 +14,6 @@ Hypothèses : quatre attributs numériques, sans standardisation ajoutée ; LR a
 - Random Forest : matrice réelle/prédite [0,1] = `[[1093, 15], [39, 103]]` ; total 1250, lignes réelles [1108,142] contrôlées.
 - Gradient Boosting : matrice réelle/prédite [0,1] = `[[1091, 17], [33, 109]]` ; total 1250, lignes réelles [1108,142] contrôlées.
 
-Les F1 KNIME réels restent **[À FAIRE PAR L'ÉTUDIANT]**, voir guide_knime.md.
+L’énoncé indique 0,75 à 0,85 comme ordre de grandeur KNIME, pas comme égalité de validation. Notre LR simulée vaut 0.701613 : elle est sous cette plage indicative. La simulation conserve les attributs bruts, les paramètres sklearn explicites et son propre tirage de lignes ; elle ne reproduit pas l’optimiseur, les réglages internes ni le tirage exact de KNIME. L’identité des causes avec une future exécution KNIME ne peut pas être établie avant cette exécution ; aucune valeur n’est forcée.
 
-La LR simulée (F1 0.701613) est sous la plage indicative KNIME 0,75–0,85 de l’énoncé. Celle-ci n’est pas une égalité attendue pour scikit-learn. Attributs bruts, paramètres explicites et tirage propre sont conservés ; les mécanismes internes KNIME ne sont pas reproduits. Les causes d’un écart avec KNIME réel ne pourront être établies qu’après son exécution.
+Les F1 KNIME réels restent **[À FAIRE PAR L'ÉTUDIANT]**, voir guide_knime.md.

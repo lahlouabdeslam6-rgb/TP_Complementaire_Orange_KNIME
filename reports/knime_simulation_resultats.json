@@ -1,7 +1,7 @@
 {
   "provenance": {
     "source": "simulation scikit-learn, pas une mesure KNIME",
-    "python": "3.13.3",
+    "python": "3.12.14",
     "numpy": "2.5.4",
     "scikit_learn": "1.9.1",
     "donnees_sha256": "55d190c433f39d88c2b748ed77c75730cef6fe9f267b4eb6efef9be6ea464dea"

@@ -1,6 +1,6 @@
 # Détection de fraude avec Orange et KNIME
 
-[NOM] [PRÉNOM] — [FILIÈRE] — [GROUPE]
+Ismail Lahlou — AI — G6
 
 EMSI — 5IASD — Déploiement d’IA — Année 2026 2027
 
@@ -8,7 +8,7 @@ Ce TP compare cinq modèles Orange avant et après amélioration, une simulation
 
 ## Données et hypothèses
 
-L’Annexe A a été exécutée avec la graine 7 : 5000 transactions, 568 fraudes (11,36 %), 5001 lignes avec en-tête. Provenance des contrôles de données : simulation scikit-learn (génération NumPy/pandas de l’Annexe A). Attributs : montant, anciennete, freq_24h, nuit ; cible : fraude. Aucun attribut n’est construit à partir de la cible. Le dossier TP04 voisin est absent ; les paramètres FLAML sont donc supposés selon la consigne. Orange 3.40.0, Python 3.13.3, scikit-learn 1.9.1, NumPy 2.3.5 ; versions figées dans requirements-orange.txt. Les deux venv locaux sont séparés ; aucune application Orange ou KNIME n’a été pilotée graphiquement.
+L’Annexe A a été exécutée avec la graine 7 : 5000 transactions, 568 fraudes (11,36 %), 5001 lignes avec en-tête. Provenance des contrôles de données : simulation scikit-learn (génération NumPy/pandas de l’Annexe A). Attributs : montant, anciennete, freq_24h, nuit ; cible : fraude. Aucun attribut n’est construit à partir de la cible. Le résultat personnel TP04 est conservé dans tp4_ismail_reference.json ; la nouvelle recherche de 60 s reste une exécution distincte. Orange 3.40.0, Python 3.13.3, scikit-learn 1.9.1, NumPy 2.3.5 ; versions figées dans requirements-orange.txt. Les deux venv locaux sont séparés ; aucune application Orange ou KNIME n’a été pilotée graphiquement.
 
 ## Partie Orange
 
@@ -100,7 +100,7 @@ Exporter ensuite workflows/tp-fraude.knwf depuis le Space Explorer.
 
 ## Référence FLAML
 
-Provenance : **simulation scikit-learn**, recherche réellement pilotée par FLAML. Paramètres supposés : test_size=0.25 NON stratifié, random_state=42, time_budget=60, seed=42, classification, métrique f1, n_jobs=1. Le contrôle trouve 134 fraudes parmi les 1250 lignes de test. Meilleur modèle : xgboost, F1 externe 0.858238. Durée observée : 60.578 secondes. Le modèle est sélectionné sur validation interne ; le test externe reste réservé à la mesure finale. Le budget temps et la machine peuvent modifier le résultat. Aucun enregistrement MLflow n’est revendiqué ici.
+Provenance : **simulation scikit-learn**, recherche réellement pilotée par FLAML. Paramètres supposés : test_size=0.25 NON stratifié, random_state=42, time_budget=60, seed=42, classification, métrique f1, n_jobs=1. Le contrôle trouve 134 fraudes parmi les 1250 lignes de test. Meilleur modèle : xgboost, F1 externe 0.858238. Durée observée : 60.242 secondes. Le modèle est sélectionné sur validation interne ; le test externe reste réservé à la mesure finale. Le budget temps et la machine peuvent modifier le résultat. Aucun enregistrement MLflow n’est revendiqué ici.
 
 ## Tableau de synthèse
 
